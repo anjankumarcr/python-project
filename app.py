@@ -15,6 +15,7 @@ st.write(f"Prediction: **{prediction}**")
 
 api_key = st.secrets["API_KEY"]
 "anjan kumarcr"
+"anjankumarcr"
 # Fetch another secret
 db_password = st.secrets["DB_PASSWORD"]
 
